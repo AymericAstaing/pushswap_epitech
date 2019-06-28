@@ -1,4 +1,4 @@
-# pushswap_epitech
+# pushswap_epitech (TECH 1 2017-2018)
 
 The game is made up of two lists of numbers named l_a and l_b.
 In the beginning, l_b will be empty and l_a will contain a certain amount of positive or negative numbers.
@@ -26,3 +26,5 @@ to launch:
 - make / make re
 
       ex: ./push_swap 2 1 3 6 5 8
+      
+Aymeric Astaing - EPITECH PARIS PROMO 2022
