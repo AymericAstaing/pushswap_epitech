@@ -21,9 +21,11 @@ l_a is given as parameter (all numbers are valid and can fit in an integer).
 The goal is to sort the list by using the fewest possible operations.
 The program print the series of operations that enable this list to be sorted.
 
-to launch:
+to build:
 
-- make / make re
+      - make / make re
+      
+to launch:
 
       ex: ./push_swap 2 1 3 6 5 8
       
