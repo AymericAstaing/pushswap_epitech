@@ -23,7 +23,7 @@ The program print the series of operations that enable this list to be sorted.
 
 to build:
 
-      - make / make re
+      make / make re
       
 to launch:
 
